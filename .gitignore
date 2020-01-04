@@ -1,0 +1,7 @@
+bin/*
+obj/*
+*.suo
+*.user
+*.exe
+*.dll
+*.DS_STORE
