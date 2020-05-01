@@ -261,7 +261,7 @@ https://www.flaticon.com/authors/monkik
 
 # License
 
-Copyright © ∞ Jason Drawdy (CloneMerge)
+Copyright © ∞ Jason Drawdy 
 
 All rights reserved.
 
